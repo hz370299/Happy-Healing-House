@@ -10,4 +10,4 @@
 | patient (or patient companion or prefer not to say)  | Test | May 1, 2023 |
 | nurse/doctor (or prefer not to say) | Kevin | May 1, 2023 |
 
-* Sometimes the meeting is unable to join since the meeting might expire. Please contact me if you are unable to join the meeting.
+* Sometimes the meeting is unable to join due to expired meeting id. Please contact me if you are unable to join the meeting.

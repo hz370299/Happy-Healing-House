@@ -1,4 +1,4 @@
-# Happy-Healing-House
+# The-Happy-Healing-House
 
 * This is our course project for CIS 7000 Healthcare and Technology.
 * Frontend: based on Amazon Chime SDK (typescript and javascript)

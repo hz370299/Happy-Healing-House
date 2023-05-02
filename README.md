@@ -15,3 +15,6 @@
 | nurse/doctor (or prefer not to say) | Kevin | May 1, 2023 |
 
 * Sometimes the meeting is unable to join due to expired meeting id. Please contact me if you are unable to join the meeting.
+
+* CIS700 Final Project Demo.mp4: A demo video to The Happy Healing House. It shows how to use the website and what you can do on the website. 
+* CIS_700_Final_Project_Report.pdf: A written report to this project, documented background, methodology, discussion, and contributions. 

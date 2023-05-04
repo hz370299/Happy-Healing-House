@@ -1,5 +1,5 @@
 # The-Happy-Healing-House
-
+**Group Member: Tianyi Wei, Zheng Han**
 * This is our course project for CIS 7000 Healthcare and Technology.
 * Frontend: based on Amazon Chime SDK (typescript and javascript)
 * Backend: developed by flask and deployed on AWS EC2 with Nginx as a reverse proxy

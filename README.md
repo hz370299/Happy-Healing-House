@@ -5,7 +5,6 @@
 * Backend: developed by flask and deployed on AWS EC2 with Nginx as a reverse proxy
 * Database: MySQL
 * The frontend and backend are both encrypted by HTTPS
-* The website is deployed on https://7rgmp7k5zl.execute-api.us-east-1.amazonaws.com/Prod/
 * Here are some sample users when you try to log in:
 
 |  role   | name | date of birth |

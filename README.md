@@ -1,6 +1,6 @@
 # The-Happy-Healing-House
 **Group Member: Tianyi Wei, Zheng Han**
-* This is our course project for CIS 7000 Healthcare and Technology.
+* This is our project for CIS 7000 Healthcare and Technology: A real-time voice/video chat platform for patients to socialize with each other during their hospital stays
 * Frontend: based on Amazon Chime SDK (typescript and javascript)
 * Backend: developed by flask and deployed on AWS EC2 with Nginx as a reverse proxy
 * Database: MySQL
